@@ -1,3 +1,6 @@
+in /repo change x.git on .git
+
+
 in /repo use:
 
 git filter-repo --blob-callback ../blob_converter.py
