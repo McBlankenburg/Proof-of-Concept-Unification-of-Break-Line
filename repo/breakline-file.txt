@@ -1,0 +1,12 @@
+﻿break-line 1 with CRLF
+
+break-line 2 with LF
+
+break-line 3 with CRLF
+
+break-line 4 with LF
+
+break-line 5 with CRLF
+
+break-line 6 with LF
+

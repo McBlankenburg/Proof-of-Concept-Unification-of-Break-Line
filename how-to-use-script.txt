@@ -1,0 +1,18 @@
+in /repo use:
+
+git filter-repo --blob-callback ../blob_converter.py
+
+correctly used giving response
+
+PS C:\Users\GF2MAZA\Desktop\dowod2\repo> git filter-repo --blob-callback ../blob_converter.py
+Parsed 24 commits
+New history written in 0.07 seconds; now repacking/cleaning...
+Repacking your repo and cleaning out old unneeded objects
+HEAD is now at 0354a6c dupa
+Enumerating objects: 99, done.
+Counting objects: 100% (99/99), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (47/47), done.
+Writing objects: 100% (99/99), done.
+Total 99 (delta 44), reused 99 (delta 44), pack-reused 0
+Completely finished after 0.29 seconds.
